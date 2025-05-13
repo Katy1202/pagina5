@@ -2,7 +2,6 @@
 <HEAD>
 <TITLE>PAGINA 5</TITLE>
 </HEAD>
-</BODY>
 <H3>Los meses de primavera</H3>
 <UL>
 <LI>Abril</LI>
@@ -44,5 +43,4 @@
 <DT>Mayo</DT>
 <DD>Hasta el 40 de mayo no te quites el sayo.</DD>
 </DL>
-</BODY>
 </HTML>
